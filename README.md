@@ -1,4 +1,4 @@
-# Session-XX---Hands-on-word-embeddings
+# Session-19---Hands-on-word-embeddings
 A practical example training word2vec embeddings using Gensim in Python.
 
 This follows on a presetation by Jose Camacho Collados on  Word, Sense and Contextualised Embeddings: Vector Representations of Meaning in Natural Language Processing
